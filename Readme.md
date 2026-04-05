@@ -1,4 +1,4 @@
-# E-Commerce Database Management System (SQL Project)
+# B103 - Databases & Big Data E-Commerce Database Management System (SQL Project)
 
 ## Project Overview
 
