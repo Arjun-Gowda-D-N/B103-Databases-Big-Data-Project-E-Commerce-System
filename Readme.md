@@ -190,5 +190,5 @@ The system successfully:
 
 ## Author
 
-Name: Arjungowda Devarahalli Nagaraj
-Student ID: GH1047219
+* Name: Arjungowda Devarahalli Nagaraj
+* Student ID: GH1047219
